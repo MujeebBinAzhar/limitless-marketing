@@ -4,8 +4,8 @@ import "./globals.scss";
 
  
 export const metadata = {
-  title: "Limitless Marketing - Digital Marketing Agency",
-  description: " Limiteless Marketing is a digital marketing agency that helps businesses grow online. We offer services such as SEO, PPC, Web Design, and more.",
+  title: "Limitless Marketing",
+  description: " Limiteless Marketing ",
 };
 
 export default function RootLayout({ children }) {
