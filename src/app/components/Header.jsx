@@ -76,6 +76,7 @@ const Header = () => {
           </div>
         </>
       )}
+
       <header className={scroll ? "header header-scroll" : "header"}>
         <div className="container">
           <div className="navigation">
