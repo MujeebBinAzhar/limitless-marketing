@@ -27,7 +27,7 @@ const page = () => {
               </h2>
 
               <div className="link">
-                <Link className="banner-link" href="#">
+                <Link className="banner-link" href="/contact">
                   Contact Us{" "}
                 </Link>
               </div>

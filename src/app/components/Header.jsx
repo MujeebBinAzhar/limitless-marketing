@@ -89,9 +89,6 @@ const Header = () => {
             <div className="links">
               <ul>
                 <li>
-                  <Link href="/">Home</Link>
-                </li>
-                <li>
                   <Link href="/about">About Us</Link>
                 </li>
                 <li>
