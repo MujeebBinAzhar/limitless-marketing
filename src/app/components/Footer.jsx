@@ -43,20 +43,20 @@ const Footer = () => {
             <h4 className="color-white fw-bold text-uppercase ">Useful link</h4>
             <ul className="footer-ul">
               <li>
-                <Link href="/services/#aquisition">About Us</Link>
+                <Link href="/about">About Us</Link>
               </li>
               <li>
-                <Link href="/services/#awareness">What We Do</Link>
+                <Link href="/what-we-do">What We Do</Link>
               </li>
               <li>
-                <Link href="/services/#brand-loyalty">Core Values</Link>
+                <Link href="/values">Core Values</Link>
               </li>
               <li>
-                <Link href="/services/#management">Contact Us</Link>
+                <Link href="/contact">Contact Us</Link>
               </li>
 
               <li>
-                <Link href="/services/#management">Privacy Policy</Link>
+                <Link href="/privacy-policy">Privacy Policy</Link>
               </li>
             </ul>
           </div>
@@ -66,16 +66,17 @@ const Footer = () => {
               Contact Info
             </h4>
             <p className="color-white">
-              26 Magdalene Street, Moneymore, Drogheda, A92 TXW6
+              Unit 6, Block B Workspace centre Mayoralty Street Drogheda
+              Co.Louth A92V044
             </p>
 
             <a
-              href="mailto:info@limitless-marketing.co.uk"
+              href="mailto:admin@limitless-marketing.ie"
               className="footer-link">
-              info@limitless-marketing.co.uk
+              Admin@limitless-marketing.ie
             </a>
-            <a href="tell:02890 024711" className="footer-link">
-              02890 024711
+            <a href="tell:(041) 983 6503" className="footer-link">
+              (041) 983 6503
             </a>
           </div>
         </div>
