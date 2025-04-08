@@ -78,6 +78,23 @@ const Footer = () => {
             <a href="tell:(041) 983 6503" className="footer-link">
               (041) 983 6503
             </a>
+
+            <div className="social">
+              <a
+                href="facebook.com/LimitlessMarketingLTDBelfast"
+                target="_blank">
+                <div className="icon">
+                  <img src="/assets/icons/facebook.svg" alt="" />
+                </div>
+              </a>
+              <a
+                href="https://www.instagram.com/limitless_marketing_ltd/"
+                target="_blank">
+                <div className="icon">
+                  <img src="/assets/icons/instagram.svg" alt="" />
+                </div>
+              </a>
+            </div>
           </div>
         </div>
       </div>

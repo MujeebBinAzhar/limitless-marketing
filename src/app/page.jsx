@@ -10,6 +10,7 @@ const page = () => {
             autoPlay
             loop
             muted
+            playsInline
             className="video"
             src="/assets/video/hero.mp4"
             type="video/mp4"></video>

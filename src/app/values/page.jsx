@@ -72,10 +72,10 @@ const page = () => {
         </div>
       </section>
 
-      <section className="sec bg-grey">
+      <section className="sec bg-grey" id="integrity">
         <div className="container">
           <div className="row">
-            <div className="col-lg-6" id="integrity">
+            <div className="col-lg-6">
               <h2 className="sec-heading">Integrity</h2>
 
               <ul className="features-ul">
@@ -95,7 +95,7 @@ const page = () => {
                   We respect each other, but are still comfortable to disagree
                   with each other.
                 </li>
-                <li>
+                <li id="service">
                   We are accountable for the tasks we commit to complete, so we
                   do not let each other down.
                 </li>
@@ -103,7 +103,7 @@ const page = () => {
               </ul>
             </div>
 
-            <div className="col-lg-6 mt-3 mt-lg-0" id="service">
+            <div className="col-lg-6 mt-3 mt-lg-0">
               <h2 className="sec-heading">Service</h2>
 
               <ul className="features-ul">
@@ -131,10 +131,11 @@ const page = () => {
         </div>
       </section>
 
+      <div id="communication"></div>
       <section className="sec">
         <div className="container">
           <div className="row">
-            <div className="col-lg-6" id="communication">
+            <div className="col-lg-6">
               <h2 className="sec-heading">Communication</h2>
 
               <ul className="features-ul">
@@ -146,6 +147,7 @@ const page = () => {
                   We have created an environment where openness and truth are
                   encouraged and rewarded.
                 </li>
+
                 <li>
                   We do not respond angrily or defensively when people disagree,
                   bring up issues or find fault.
@@ -154,10 +156,11 @@ const page = () => {
                   We constantly think of better ways to improve every aspect of
                   the business.
                 </li>
+                <span id="execution"></span>
               </ul>
             </div>
 
-            <div className="col-lg-6 mt-3 mt-lg-0" id="execution">
+            <div className="col-lg-6 mt-3 mt-lg-0">
               <h2 className="sec-heading">Execution</h2>
               <ul className="features-ul">
                 <li>
