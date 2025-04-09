@@ -237,6 +237,15 @@ header {
     ),
     url("/assets/img/about-banner.jpg");
 }
+
+.news-banner {
+  background-image: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("/assets/img/news-banner.jpg");
+}
 .privacy-banner {
   background-image: linear-gradient(
       180deg,
