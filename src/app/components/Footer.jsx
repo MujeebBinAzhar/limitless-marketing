@@ -91,7 +91,7 @@ const Footer = () => {
 
             <div className="social">
               <a
-                href="facebook.com/LimitlessMarketingLTDBelfast"
+                href="https://www.facebook.com/LimitlessMarketingLTDBelfast"
                 target="_blank">
                 <div className="icon">
                   <img

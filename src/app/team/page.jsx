@@ -43,11 +43,17 @@ const page = () => {
                 </div>
                 <div className="team-content">
                   <p>
-                    A seasoned sales leader with 10+ years at Limitless
-                    Marketing, known for building top-performing teams and
-                    driving consistent revenue growth. His expertise in
-                    recruitment, training, and market expansion has been key to
-                    the company’s success across Ireland
+                    Accomplished leader and direct sales veteran at Limitless
+                    Marketing, has spent over 10 years building and leading
+                    high-performing teams that consistently exceed sales
+                    targets. His expertise in recruitment, training, and
+                    mentoring has enabled the company to develop a loyal and
+                    productive sales force, driving revenue growth and success.
+                  </p>
+                  <p>
+                    With a proven track record of expanding businesses into new
+                    markets, he has played a key role in driving Limitless
+                    Marketing's growth and expansion in Ireland.
                   </p>
                 </div>
               </div>
@@ -65,15 +71,20 @@ const page = () => {
                   </div>
                   <div className="name-container">
                     <h4>Leah</h4>
-                    <h5>Admin</h5>
+                    <h5>Operations Manager</h5>
                   </div>
                 </div>
                 <div className="team-content">
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Nihil officiis eum delectus eius, voluptas nulla veritatis
-                    ipsam itaque sequi dolorem nobis suscipit dolores deserunt,
-                    consequatur, iste eaque sunt debitis molestiae?
+                    I’ve always had a passion for working with people,
+                    regardless of the sector. Since having my daughter, my focus
+                    has shifted—all I want to do is help others, whether
+                    mentally, emotionally, financially, or in any way I can.
+                  </p>
+                  <p>
+                    Becoming an operations manager has always been a
+                    dream—helping people find their passion, achieve their
+                    goals, and succeed in life.
                   </p>
                 </div>
               </div>
