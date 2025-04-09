@@ -15,7 +15,7 @@ const NewsSection = () => {
     try {
       // Using your API key from the example
       const apiKey = "pub_791719f8ca6dbc02afa2df69f7402d9c13baf";
-      let url = `https://newsdata.io/api/1/latest?apikey=${apiKey}&language=en&q=${query}&size=9`;
+      let url = `https://newsdata.io/api/1/latest?apikey=${apiKey}&language=en&q=query&size=9`;
 
       // Add search query if provided
       if (query) {
@@ -138,7 +138,9 @@ const NewsSection = () => {
                     <div className="card-body d-flex flex-column">
                       <h5 className="card-title">{article.title}</h5>
                       <p className="card-text">
-                        {article.description || "No description available"}
+                        {(article.description?.slice(0, 300) ||
+                          "No description available") +
+                          (article.description?.length > 300 ? "..." : "")}
                       </p>
 
                       <div className="mt-auto">
