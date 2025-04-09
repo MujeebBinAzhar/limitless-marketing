@@ -33,7 +33,7 @@ const page = () => {
                     <img
                       src="/assets/img/amir.jpeg"
                       className="img-fluid"
-                      alt=""
+                      alt="Limitless Marketing"
                     />
                   </div>
                   <div className="name-container">
@@ -60,7 +60,7 @@ const page = () => {
                     <img
                       src="/assets/img/leah.png"
                       className="img-fluid"
-                      alt=""
+                      alt="Limitless Marketing"
                     />
                   </div>
                   <div className="name-container">

@@ -47,7 +47,10 @@ const page = () => {
             <li>
               <div className="feature-card">
                 <div className="icon">
-                  <img src="/assets/icons/aquisition.svg" alt="" />
+                  <img
+                    src="/assets/icons/aquisition.svg"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <h4>Aquisition</h4>
                 <p>
@@ -60,7 +63,10 @@ const page = () => {
             <li>
               <div className="feature-card">
                 <div className="icon">
-                  <img src="/assets/icons/awareness.svg" alt="" />
+                  <img
+                    src="/assets/icons/awareness.svg"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <h4>Awareness</h4>
                 <p>
@@ -73,7 +79,10 @@ const page = () => {
             <li>
               <div className="feature-card">
                 <div className="icon">
-                  <img src="/assets/icons/loyal.svg" alt="" />
+                  <img
+                    src="/assets/icons/loyal.svg"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <h4>Brand Loyalty</h4>
                 <p>
@@ -87,7 +96,10 @@ const page = () => {
             <li>
               <div className="feature-card">
                 <div className="icon">
-                  <img src="/assets/icons/management.svg" alt="" />
+                  <img
+                    src="/assets/icons/management.svg"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <h4>Management</h4>
                 <p>

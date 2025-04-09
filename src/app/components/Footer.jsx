@@ -9,7 +9,10 @@ const Footer = () => {
           <div className=" col-lg-3 col-md-6 mb-2">
             <div className="footer-logo">
               <Link href="/">
-                <img src="/assets/img/logo-white.png" alt="" />
+                <img
+                  src="/assets/img/logo-white.png"
+                  alt="Limitless Marketing"
+                />
               </Link>
               <p className="small color-white mt-4">
                 At Limitless Marketing, we specialize in delivering powerful
@@ -90,14 +93,20 @@ const Footer = () => {
                 href="facebook.com/LimitlessMarketingLTDBelfast"
                 target="_blank">
                 <div className="icon">
-                  <img src="/assets/icons/facebook.svg" alt="" />
+                  <img
+                    src="/assets/icons/facebook.svg"
+                    alt="Limitless Marketing"
+                  />
                 </div>
               </a>
               <a
                 href="https://www.instagram.com/limitless_marketing_ltd/"
                 target="_blank">
                 <div className="icon">
-                  <img src="/assets/icons/instagram.svg" alt="" />
+                  <img
+                    src="/assets/icons/instagram.svg"
+                    alt="Limitless Marketing"
+                  />
                 </div>
               </a>
             </div>

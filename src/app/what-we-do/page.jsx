@@ -51,7 +51,7 @@ const page = () => {
             <div className="col-lg-6 mt-3 mt-lg-0">
               <img
                 src="/assets/img/what-we-do.jpg"
-                alt=""
+                alt="Limitless Marketing"
                 className="img-fluid border-radius"
               />
             </div>
@@ -71,7 +71,10 @@ const page = () => {
             <li>
               <div className="present-card">
                 <div className="icon">
-                  <img src="/assets/icons/out-of-hours-icon.png" alt="" />
+                  <img
+                    src="/assets/icons/out-of-hours-icon.png"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <p>Out of hours responses if required.</p>
               </div>
@@ -80,7 +83,10 @@ const page = () => {
             <li>
               <div className="present-card">
                 <div className="icon">
-                  <img src="/assets/icons/team-icon.png" alt="" />
+                  <img
+                    src="/assets/icons/team-icon.png"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <p>Ireland team to respond to your requests.</p>
               </div>
@@ -89,7 +95,10 @@ const page = () => {
             <li>
               <div className="present-card">
                 <div className="icon">
-                  <img src="/assets/icons/innovation-icon.png" alt="" />
+                  <img
+                    src="/assets/icons/innovation-icon.png"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <p>A trusted network ready to market your brand efficiently.</p>
               </div>
@@ -98,7 +107,10 @@ const page = () => {
             <li>
               <div className="present-card">
                 <div className="icon">
-                  <img src="/assets/icons/face-meeting.png" alt="" />
+                  <img
+                    src="/assets/icons/face-meeting.png"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <p>Face to face meetings</p>
               </div>
@@ -107,7 +119,10 @@ const page = () => {
             <li>
               <div className="present-card">
                 <div className="icon">
-                  <img src="/assets/icons/phone-icon-23.png" alt="" />
+                  <img
+                    src="/assets/icons/phone-icon-23.png"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <p>No waiting time to get through to us.</p>
               </div>
@@ -116,7 +131,10 @@ const page = () => {
             <li>
               <div className="present-card">
                 <div className="icon">
-                  <img src="/assets/icons/cocktail-glass-icon-new.png" alt="" />
+                  <img
+                    src="/assets/icons/cocktail-glass-icon-new.png"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <p>Office meets at the best spots in town!</p>
               </div>

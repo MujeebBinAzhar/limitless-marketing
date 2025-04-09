@@ -32,10 +32,16 @@ const Header = () => {
             <div className="modal-inner">
               <div className="close">
                 <div className="logo">
-                  <img src="/assets/img/logo-black.png" alt="" />
+                  <img
+                    src="/assets/img/logo-black.png"
+                    alt="Limitless Marketing"
+                  />
                 </div>
                 <div className="icon" onClick={setFalse}>
-                  <img src="/assets/icons/close-menu.svg" alt="" />
+                  <img
+                    src="/assets/icons/close-menu.svg"
+                    alt="Limitless Marketing"
+                  />
                 </div>
               </div>
               <div className="mobile-links">
@@ -92,7 +98,10 @@ const Header = () => {
           <div className="navigation">
             <div className="logo">
               <Link href="/">
-                <img src="/assets/img/logo-white.png" alt="" />
+                <img
+                  src="/assets/img/logo-white.png"
+                  alt="Limitless Marketing"
+                />
               </Link>
             </div>
 
@@ -131,7 +140,7 @@ const Header = () => {
                 src="/assets/icons/menu.svg"
                 width={30}
                 height={30}
-                alt=""
+                alt="Limitless Marketing"
               />
             </div>
           </div>
