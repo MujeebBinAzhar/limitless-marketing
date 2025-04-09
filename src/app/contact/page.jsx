@@ -83,7 +83,7 @@ const page = () => {
                       <h5>Location</h5>
                       <p>
                         Unit 6, Block B Workspace centre Mayoralty Street
-                        Drogheda Co.Louth A92V044
+                        Ireland Co.Louth A92V044
                       </p>
                     </div>
                   </div>

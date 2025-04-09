@@ -1,5 +1,6 @@
 import Link from "next/link";
 import React from "react";
+import ScrollToTopp from "./ScrollToTopp";
 
 const Footer = () => {
   return (
@@ -17,7 +18,7 @@ const Footer = () => {
               <p className="small color-white mt-4">
                 At Limitless Marketing, we specialize in delivering powerful
                 sales and marketing solutions that drive real results. Based in
-                Drogheda, we work with businesses and charities to expand their
+                Ireland, we work with businesses and charities to expand their
                 reach, build brand awareness, and create meaningful customer
                 connections.
               </p>
@@ -75,8 +76,8 @@ const Footer = () => {
               Contact Info
             </h4>
             <p className="color-white">
-              Unit 6, Block B Workspace centre Mayoralty Street Drogheda
-              Co.Louth A92V044
+              Unit 6, Block B Workspace centre Mayoralty Street Ireland Co.Louth
+              A92V044
             </p>
 
             <a
@@ -113,6 +114,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
+      <ScrollToTopp />
     </section>
   );
 };

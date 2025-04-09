@@ -15,7 +15,7 @@ const page = () => {
               <p className="banner-para">
                 At Limitless Marketing, we partner with businesses and charities
                 to deliver impactful sales and marketing solutions. Based in
-                Drogheda, our innovative and people-first approach helps build
+                Ireland, our innovative and people-first approach helps build
                 brands, engage audiences, and drive real results.
               </p>
 
@@ -37,7 +37,7 @@ const page = () => {
               <p>
                 At Limitless Marketing, we specialize in delivering powerful
                 sales and marketing solutions that drive real results. Based in
-                Drogheda, we work with businesses and charities to expand their
+                Ireland, we work with businesses and charities to expand their
                 reach, build brand awareness, and create meaningful customer
                 connections.
               </p>
