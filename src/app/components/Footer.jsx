@@ -54,6 +54,12 @@ const Footer = () => {
               <li>
                 <Link href="/contact">Contact Us</Link>
               </li>
+              <li>
+                <Link href="/team">Team</Link>
+              </li>
+              <li>
+                <Link href="/news">News</Link>
+              </li>
 
               <li>
                 <Link href="/privacy-policy">Privacy Policy</Link>

@@ -66,6 +66,11 @@ const Header = () => {
                     </Link>
                   </li>
                   <li>
+                    <Link onClick={setFalse} href="/team">
+                      Meet The Team
+                    </Link>
+                  </li>
+                  <li>
                     <Link onClick={setFalse} href="/news">
                       News
                     </Link>
@@ -104,6 +109,9 @@ const Header = () => {
                 </li>
                 <li>
                   <Link href="/services">Services</Link>
+                </li>
+                <li>
+                  <Link href="/team">Meet The Team</Link>
                 </li>
                 <li>
                   <Link href="/news">News</Link>
